@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavsinha1" alt="arnavsinha1" /></a> </p>
 
-- 🌱 I’m currently learning **Collections, JDBC, SpringBoot**
+- 🌱 I’m currently working on **OOPs, Logical Programming, UI, Collections, JDBC, SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://arnavsinha1.github.io/arnava-portfolio/](https://arnavsinha1.github.io/arnava-portfolio/)
 
