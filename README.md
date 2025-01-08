@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnava Kumar Sinha</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavsinha1&label=Profile%20views&color=0e75b6&style=flat" alt="arnavsinha1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARNAVSINHA1&label=Profile%20views&color=0e75b6&style=flat" alt="arnavsinha1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavsinha1" alt="arnavsinha1" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARNAVSINHA1" alt="arnavsinha1" /></a> </p>
 
 - 🌱 I’m currently working on **OOPs, Logical Programming, UI, Collections, JDBC, SpringBoot**
 
